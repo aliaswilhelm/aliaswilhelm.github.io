@@ -28,6 +28,7 @@ body{
 
 .bottomrow{
 	height:420px;
+	margin-top:-10px;
 }
 
 .bottomrow div.slideshow img{
@@ -67,21 +68,3 @@ body{
 .sb{
 	cursor:pointer;
 }
-
-/*.container{
-	margin-left:-40px;
-}*/
-
-/*.top-icon{
-	margin-left:10px;
-}*/
-
-/*.img-f{
-	display:inline-block;
-}*/
-
-.img-g{
-	margin-top:-13px;
-	margin-left:100px;
-}
-
