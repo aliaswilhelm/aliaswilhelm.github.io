@@ -30,14 +30,15 @@ body{
 	height:420px;
 }
 */
+
 .bottomrow div.slideshow img{
 	height:100%;
 	margin: 0 auto;
 }
 
 .bigphoto{
-/*	height:420px;
-	width:740px;*/
+	height:420px;
+	width:740px;
 	height:auto;
 	width: 100%;
 	margin-top:-15px;
