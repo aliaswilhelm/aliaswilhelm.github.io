@@ -33,7 +33,7 @@ body{
 
 .bottomrow div.slideshow img{
 	height:100%;
-	margin: 0 auto;
+	margin:0 auto;
 }
 
 .bigphoto{
@@ -53,8 +53,8 @@ body{
 }
 
 .img-c img{
-	height:100%;
-	width:auto;
+	height:auto;
+	width:100%;
 }
 
 .img-d{
