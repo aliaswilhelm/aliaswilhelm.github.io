@@ -26,10 +26,11 @@ body{
 	margin-top:20px;
 }
 
-/*.bottomrow{
+.bottomrow{
 	height:420px;
 }
-*/
+
+
 .bottomrow div.slideshow img{
 	height:100%;
 	margin: 0 auto;
@@ -52,8 +53,8 @@ body{
 }
 
 .img-c img{
-	height:100%;
-	width:auto;
+	height:auto;
+	width:100%;
 }
 
 .img-d{
