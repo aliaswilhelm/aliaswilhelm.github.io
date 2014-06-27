@@ -39,8 +39,8 @@ body{
 .bigphoto{
 /*	height:420px;
 	width:740px;*/
-	height:100%;
-	width: auto;
+	height:auto;
+	width: 100%;
 	margin-top:-15px;
 }
 
