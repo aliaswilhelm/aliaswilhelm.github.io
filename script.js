@@ -42,8 +42,8 @@ var setSlideshow = function() {
 
 }
 
-
-
+$('.fancybox').fancybox();
+});
 
 
 
