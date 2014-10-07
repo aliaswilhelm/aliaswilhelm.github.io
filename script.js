@@ -40,10 +40,13 @@ var setSlideshow = function() {
 		$("div.content .slideshow").slick({
 		});
 
-}
-
+{
 $('.fancybox').fancybox();
 });
+
+}
+
+
 
 
 
